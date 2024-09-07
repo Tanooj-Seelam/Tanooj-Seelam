@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Tanooj Reddy Seelam</h1>
+<h3 align="center">CS Grad & Ex - Data Analyst @ ASU</h3>
+
+- 📫 How to reach me **tanooj.seelam@gmail.com**
+
 - 👋 Hi, I’m @Tanooj-Seelam
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
