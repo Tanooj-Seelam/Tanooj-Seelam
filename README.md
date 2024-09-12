@@ -1,3 +1,4 @@
+![logo](https://github.com/Tanooj-Seelam/Tanooj-Seelam/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 # 💫 About Me:
 👨‍💻 Software Developer and Data Analyst sharing about my journey and learning in tech<br>👨‍🎓 Master of Computer Science at Arizona State University, Tempe, Arizona, United States<br>🖥 Working on new technoligies and implementing things using programming languages already learnt<br>💻 Current learning about Spring Frame work and Maven using java programming language
 
